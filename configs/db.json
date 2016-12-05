@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "mfw",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "mfw",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root123456",
+    "database": "mfw_dev",
+    "host": "582c22f5691e9.sh.cdb.myqcloud.com",
+    "portd": 4901,
+    "dialect": "mysql"
+  }
+}
